@@ -1,6 +1,6 @@
 class Student < User
 
-  def initialize
-
-  end
+  # def initialize
+  #
+  # end
 end
